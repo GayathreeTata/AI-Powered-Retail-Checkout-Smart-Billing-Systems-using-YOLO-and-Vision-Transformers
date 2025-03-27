@@ -2,7 +2,7 @@
 
 This project introduces an AI-powered smart billing system for retail stores. It integrates YOLOv8 and Vision Transformers to detect and recognize products at checkout, automatically generating a bill based on the detected items.
 
-🔹 Key Features
+# Key Features
 ✅ Automated product recognition 📸 using AI-powered object detection
 ✅ Real-time billing 🛒 based on detected products and their prices
 ✅ Scalable deep learning model using YOLOv8 & Vision Transformers
@@ -23,7 +23,7 @@ Pandas
 # Demo
 ![image](https://github.com/user-attachments/assets/2d8c24ac-fe64-4685-a509-36c85b2ab89e)
 
-#Usage
+# Usage
 Upload an Image of products in a shopping cart
 
 The system will detect items using YOLOv8 & Vision Transformers
